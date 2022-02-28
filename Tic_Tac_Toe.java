@@ -738,7 +738,7 @@ public class Tic_Tac_Toe {
             if (n == JOptionPane.YES_OPTION)
             {
                 f.dispose();
-                JOptionPane.showMessageDialog(null, "Enjoy a life changing tic tac toe experience", null,
+                JOptionPane.showMessageDialog(null, "Enjoy Anish's tic tac toe", null,
                         JOptionPane.INFORMATION_MESSAGE);
                 game(Options);
                 return true;
