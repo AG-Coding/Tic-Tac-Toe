@@ -78,7 +78,7 @@ public class Tic_Tac_Toe {
         // Debugging stuff
 
         String[][] board = new String[3][3]; // Declaring the board, the back-end representation of the game
-        ImageIcon img = new ImageIcon("C:\\Users\\rowit\\Downloads\\download.png");
+        ImageIcon img = new ImageIcon("C:\\download.png");
         f.setIconImage(img.getImage());
 
         KnotsAndCrosses kandc = new KnotsAndCrosses(); // the knots and crosses object
